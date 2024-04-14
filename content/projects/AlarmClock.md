@@ -1,6 +1,6 @@
 ---
 date: '2020-02-12'
-title: 'Alarm Clock'
+title: 'E-Vidhya'
 github: 'https://github.com/yashitanamdeo/AlarmClock'
 external: ''
 tech:
