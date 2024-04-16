@@ -5,4 +5,4 @@ subtitle: 'I love exploring new things!'
 buttonText: 'Get In Touch'
 ---
 
-I am an enthusiastic Associate Software Engineer, eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Motivated to learn, grow and excel in the Software Development Industry.
+I'm a passionate Associate Software Engineer, driven to enhance team achievements with my meticulous work ethic and strong organizational skills. My hunger for knowledge propels me to continuously evolve and thrive in the dynamic Software Development landscape.
