@@ -1,10 +1,9 @@
 module.exports = {
   siteTitle: 'Krishna Thapa-Web Developer',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
-  siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Krishna Thapa is an Software Developer, based in Nepal, who loves learning new things and helping tech beginners.',
+  siteKeywords: ' software engineer, web developer, javascript, python, java',
+  siteUrl: 'https://github.com/KrishnaThapa74',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
@@ -22,12 +21,11 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/krishna-thapa-2419521b7/',
     },
-    
+
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://instagram.com/krishnathapa10/',
     },
-    
   ],
 
   navLinks: [
