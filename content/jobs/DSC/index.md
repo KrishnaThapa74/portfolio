@@ -1,5 +1,5 @@
 ---
-date: '2023-05-01'
+date: '2024-04-17'
 title: 'Associate Software Engineer'
 company: 'Evidhya Pvt Ltd'
 location: remote
