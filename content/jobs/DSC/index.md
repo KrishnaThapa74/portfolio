@@ -1,6 +1,6 @@
 ---
 date: '2023-07-01'
-title: 'Member'
+title: 'Associate Software Engineer'
 company: 'Evidhya Pvt Ltd'
 location: remote
 range: 'Sep 2020 - Present'
