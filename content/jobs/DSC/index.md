@@ -1,12 +1,13 @@
 ---
-date: '2020-09-21'
+date: '2023-07-01'
 title: 'Member'
-company: 'DSV - SVVV'
+company: 'Evidhya Pvt Ltd'
 location: remote
 range: 'Sep 2020 - Present'
 url: 'https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/'
 ---
 
-- Grown knowledge in a peer-to-peer learning environment.
-- Build solutions for local businesses and the community.
-- Attained several technical workshops.
+- Coding software
+- Coordinating with hardware engineers to ensure that different types of technology can run the software.
+- Working with the development team to design the product.
+- Database Administration
