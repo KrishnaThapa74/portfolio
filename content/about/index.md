@@ -5,7 +5,7 @@ skills:
   - Coding
   - Reading
   - Plaing Football
-  - Crafting
+  - Music
   - Problem Solving
   - Team Management
   - Mentoring
