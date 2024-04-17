@@ -3,7 +3,7 @@ date: '2022-12-25'
 title: 'FIFA EVENT SUPPORT TEAM'
 company: 'FIFA'
 location: Hybrid
-range: ' Oct 2022 - Dec 2022' 
+range: ' Oct 2022 - Dec 2022'
 url: 'https://www.fifa.com/fifaplus/en'
 ---
 
