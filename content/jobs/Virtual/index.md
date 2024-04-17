@@ -3,7 +3,7 @@ date: '2022-09-13'
 title: 'Technical Support Assistant'
 company: 'Subisu Cablenet Ltd.'
 location: Hybrid
-range: 'June 2022- September 2022'
+range: 'Jun 2022- Sep 2022'
 url: 'https://subisu.net.np/'
 ---
 
