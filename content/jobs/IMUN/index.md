@@ -1,13 +1,15 @@
 ---
-date: '2021-06-11'
-title: 'Campus Ambassador Intern'
-company: 'International MUN (IMUN)'
-location: remote
-range: 'June 2021 - July 2021'
-url: 'https://www.internationalmun.org/'
+date: '2023-05-01'
+title: 'Web Developer Intern'
+company: 'Evidhya Pvt Ltd'
+location: Hybrid
+range: 'Jan 2023 - May 2023'
+url: 'https://evidhya.com.np/'
 ---
 
-- Promoted IMUN Online Conferences in different schools/universities and got 10+ registrations.
-- Informed how MUNs enhance - Negotiation, Diplomacy, Leadership, etc.
-- Achieved Brand Ambassador title for increasing the sales of the organization by 10% and creating brand presence.
-- View [OFFER LETTER](https://drive.google.com/file/d/1q-rr54_-9znx-m1PvEDTYkbu5yGy0miK/view?usp=sharing)
+- Directed and shaped a 365 Entertainment and Blogging Frontend Website, using HTML5 and CSS3
+- Developed a page CSS Static Website and Registration page with basic stylings
+- Designed and deployed 2 e-learning portals, and 2 e-commerce platforms using Bootstrap,HTML5, CSS3 and PHP.
+- Modeled an e-Food and an Alumni Management Portals during a 4-month coding internship
+
+- View [Experience Certificate](https://drive.google.com/file/d/1oSWYC_HX1to7SdkuvC9aghBgN8AGO2YX/view?usp=drive_link)
