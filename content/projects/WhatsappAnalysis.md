@@ -1,14 +1,10 @@
 ---
 date: '2021-04-18'
-title: 'Whatsapp Chat Analysis'
-github: 'https://github.com/yashitanamdeo/WhatsApp-Chat-Analysis'
-external: 'https://github.com/yashitanamdeo/WhatsApp-Chat-Analysis/blob/main/WhatsApp%20Chat%20Analysis.ipynb'
+title: 'Course Management System'
+github: 'https://github.com/KrishnaThapa74/Course-Management-System'
+external: 'https://github.com/KrishnaThapa74/Course-Management-System/tree/master/src'
 tech:
-  - Python
-  - Regex
-  - Numpy
-  - Pandas
-  - Matplotlib
+  - Java
 company: ''
 showInProjects: true
 ---
