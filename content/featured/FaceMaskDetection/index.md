@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Evidhya'
-cover: 'face-mask.png'
+cover: 'evidhya.jpg'
 external: 'https://evidhya.com.np/'
 tech:
   - Reactjs
