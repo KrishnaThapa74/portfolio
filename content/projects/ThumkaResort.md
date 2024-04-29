@@ -1,8 +1,8 @@
 ---
 date: '2021-05-23'
 title: 'Thumka Resort'
-github: 'https://github.com/KrishnaThapa74/Thumka-Resort.git'
-external: ''
+github: 'https://github.com/KrishnaThapa74/Thumka-Resort'
+external: 'https://github.com/KrishnaThapa74/Thumka-Resort'
 tech:
   - HTML
   - CSS
