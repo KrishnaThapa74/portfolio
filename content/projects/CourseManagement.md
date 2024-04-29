@@ -9,4 +9,4 @@ company: ''
 showInProjects: true
 ---
 
-The Online Course Management System consists of three inter-linked modules (Administrator, Student, Instructor) facilitating administrative control, student registration, homework submission, and grading, enhancing efficiency and security through individual user accounts with password protection using java.
+The Online Course Management System consists of three inter-linked modules (Administrator, Student, Instructor).
