@@ -13,4 +13,3 @@ showInProjects: true
 ---
 
 eVidhya is an web application-based e-learning platform to facilitate millions of enthusiastic students to learn at their comfort all across the country.
-
