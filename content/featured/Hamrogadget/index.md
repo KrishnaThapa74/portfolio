@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Hamro Gadget'
 cover: '123.jpg'
 github: 'https://github.com/KrishnaThapa74/Hamro-Gadget'
