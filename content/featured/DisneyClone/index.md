@@ -1,17 +1,18 @@
 ---
 date: '2'
-title: 'Disney+ Clone'
-cover: './disneyclone.png'
-github: 'https://github.com/yashitanamdeo/Disney-plus-Clone'
-external: 'https://disney-clone-83e44.web.app/'
+title: 'Hamro Gadget'
+cover: '123.jpg'
+github: 'https://github.com/KrishnaThapa74/Hamro-Gadget'
+external: 'https://github.com/KrishnaThapa74/Hamro-Gadget'
 tech:
-  - ReactJS
-  - Redux
-  - Styled Components
-  - Firebase
+  - HTML
+  - CSS
+  - JQuery
+  - JS
+  - Mysql
 showInProjects: true
 ---
 
-Built Disney+ Clone with React JS with Google account's Sign in feature. Styled to get 15+ movies made by Disney; clickable images to get details of the specific movie.
+Hamrogadgets is  e-commerce site, offering a vast selection of electronics and durables. It serves as a hub for buyers, sellers, and advertisers to connect and transact securely.
 
 

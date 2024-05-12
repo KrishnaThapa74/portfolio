@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Evidhya'
 cover: 'evidhya.jpg'
 external: 'https://evidhya.com.np/'

@@ -1,6 +1,6 @@
 ---
-date: '4'
-title: 'AI Face Landmark Detection'
+date: '3'
+title: 'Riva Grill House'
 cover: '12.jpg'
 github: 'https://github.com/KrishnaThapa74/Riva-Grill-House'
 external: 'https://github.com/KrishnaThapa74/Riva-Grill-House'
