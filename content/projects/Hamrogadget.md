@@ -7,6 +7,8 @@ tech:
   - HTML
   - CSS
   - JS
+  - JQuery
+
 company: ''
 showInProjects: true
 ---
