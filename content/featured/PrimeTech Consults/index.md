@@ -1,6 +1,6 @@
 ---
-date: '4'
-title: 'Blood Bank and Donation System'
+date: '5'
+title: 'PrimeTech Consults'
 cover: 'image.png'
 github: ''
 external: 'https://www.primetechconsultancy.com/'
