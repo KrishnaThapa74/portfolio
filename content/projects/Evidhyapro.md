@@ -1,16 +1,18 @@
 ---
-date: '2020-05-19'
-title: 'Evidhyapro'
+date: '2024-11-21'
+title: 'PrimeTech Consults'
 github: ''
-external: 'https://evidhyapro.com/'
+external: 'https://www.primetechconsultancy.com/'
 tech:
-  - HTML
-  - CSS
-  - Javascript
+  - MySQL
+  - Database Administration
+  - JS
   - PHP
   - Bootstrap
-company: 'Evidhya Pvt. Ltd'
+  - CodeIgniter
+  - WordPress
+company: ''
 showInProjects: true
 ---
 
-web based e-learning platform for ooperative businesses which offers customizable and affordable services to promote growth for cooperatives and their affiliates.
+PrimeTech Consultancy provides digital services like web design, app development, and social media marketing to enhance business presence.

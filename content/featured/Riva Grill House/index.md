@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Riva Grill House'
 cover: '12.jpg'
 github: 'https://github.com/KrishnaThapa74/Riva-Grill-House'

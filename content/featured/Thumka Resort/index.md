@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Thumka Resort'
 cover: '1234.jpg'
 external: 'https://github.com/KrishnaThapa74/Thumka-Resort'
